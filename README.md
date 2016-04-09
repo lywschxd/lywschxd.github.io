@@ -1,4 +1,3 @@
-MDwiki
-======
+# Dong's wiki
 
-See http://www.mdwiki.info/ for more documentation and details.
+power by MDwiki
