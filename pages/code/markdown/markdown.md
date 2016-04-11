@@ -1,6 +1,6 @@
 # markdown 语法说明
 ## 标题
-![](img/biaoti.jpg)
+![](img/biaoti.jpg biaoti)
 
 标题是每篇文章都需要也是最常用的格式，在 Markdown 中，如果一段文字被定义为标题，只要在这段文字前加 # 号即可。
 ```
