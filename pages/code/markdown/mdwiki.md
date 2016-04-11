@@ -43,6 +43,10 @@
   * [SubMenu Item 4](pages/index.md)
 ```
 
+### Mdwiki 语法
+###### 图片
+mdwiki的图片和标准的markdown语法有点不同，mdwiki使用的是`![alt](href "title")`来显示图片
+
 ###### 语法高亮：
 mdwiki 对html和xml的语法高亮支持不好，会引起js
 
